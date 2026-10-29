@@ -1,0 +1,47 @@
+{
+ "iso2": "SZ",
+ "iso3": "SWZ",
+ "name_en": "Eswatini",
+ "name_fr": "Eswatini",
+ "currency": "SZL",
+ "symbol": "E",
+ "languages": [
+  "en",
+  "ss"
+ ],
+ "brand": "AfDB – Data Innovation for Africa (DI4A)",
+ "version": "2.0.0",
+ "generated": "2026-10-29T20:10Z",
+ "frequency": "D",
+ "periods": [
+  "2026-10-29",
+  "2026-10-30"
+ ],
+ "weights_status": "given",
+ "weights_source": "Central Statistical Office (CSO), Consumer Price Index July 2026 (released 14 August 2026), Table 2 'CPI, annual and monthly changes for main groups' and Table 4 'CPI, annual and monthly changes for detailed groups', Weight column; weights from the 2016/17 Household Income and Expenditure Survey; the 12 divisions add up to 100.00. Published in COICOP 1999: 08 Communication -> 2018-08 (7.36); 1999-12 Miscellaneous (2.14) split with the published sub-weights: 12.5 Insurance 0.61 + 12.6 Financial services 0.10 -> 2018-12 = 0.71; 12.1 Personal care 1.12 + 12.7 Other services 0.31 -> 2018-13 = 1.43. Group weights are not entered: the extracted text of Table 4 was ambiguous for 04.5 (classes electricity 4.53, gas 1.41, liquid fuels 0.53, solid fuels 0.31).",
+ "weights_url": "https://gov.sz/images/planningministry/KINGDOM%20OF%20ESWATINI%20INFLATION%20REPORT_JULY%202026.pdf",
+ "basket_share": 0.8001,
+ "demo": false,
+ "excluded_natures": [
+  "rent_ask"
+ ],
+ "title_en": "Experimental consumer price index",
+ "title_fr": "Indice expérimental des prix à la consommation",
+ "capital": {
+  "name": "Mbabane",
+  "lat": -26.3054,
+  "lon": 31.1367
+ },
+ "kpi": {
+  "index": 100.0,
+  "change": 0.0,
+  "cumulative": 0.0,
+  "period": "2026-10-30",
+  "first_period": "2026-10-29",
+  "observations": 88,
+  "items": 44,
+  "sources": 9,
+  "divisions": 6,
+  "matched": 44
+ }
+}

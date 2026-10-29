@@ -1,0 +1,30 @@
+id,name,kind,url,divisions,status,excluded,observations_this_run,items_this_run
+sz_eec_electricity,EEC — 2026/27 residential electricity tariffs,tariff,https://www.eec.co.sz/domestic/tariffs/,04,verified,False,8,4
+sz_fuel_prices,Ministry of Natural Resources and Energy — regulated fuel prices,tariff,https://times.co.sz/45228/news/tough-times-as-fuel-prices-edge-close-to-e30-per-litre/,07 04,verified,False,6,3
+sz_bus_fares,"Gazetted public transport fares (bus, midibus, minibus)",tariff,https://www.eswatiniobserver.com/?p=13464,07,partial,False,8,4
+sz_bread_max_price,"Maximum Wholesale and Retail Prices of Bread Notices, 2025 and 2026 (Price Control Order 1973)",tariff,https://www.eswatiniobserver.com/bread-price-goes-up-by-7/,01,verified,False,8,4
+sz_eswatini_mobile_plans,Eswatini Mobile — No Frills monthly plans,tariff,https://eswatinimobile.co.sz/no-frill-contracts/,08,verified,False,14,7
+sz_mtn_voice,MTN Eswatini — prepaid voice bundles,tariff,https://www.mtn.co.sz/mtn_tag/voice/,08,partial,False,16,8
+sz_mtn_data,MTN Eswatini — prepaid top-up data bundles,tariff,https://www.mtn.co.sz/mtn_tag/mobile-data/,08,partial,False,0,0
+sz_mtn_momo_fees,MTN MoMo Eswatini — send-money and ATM cash-out fees,tariff,https://www.mtn.co.sz/momo/momo-personal/fees/,12,verified,False,12,6
+sz_standardbank_fees,Standard Bank Eswatini — Personal & Private Banking pricing guide (account and transaction fees),tariff,https://sponsorships.standardbank.com/static_file/Eswatini/FileDownloads/2025%20Standard%20Bank%20Eswatini%20Pricing%20Guide.pdf,12,partial,False,14,7
+sz_uneswa_fees,University of Eswatini (UNESWA) — standard tuition fee,tariff,https://www.eswatiniobserver.com/uneswa-introduces-standard-tuition-fee-of-e26-000-for-all-students/,10,partial,False,2,1
+sz_worldbank,World Bank — official CPI (annual),benchmark,https://api.worldbank.org/v2/country/SWZ/indicator/FP.CPI.TOTL,,partial,False,0,0
+sz_imf,IMF DataMapper — inflation (WEO),benchmark,https://www.imf.org/external/datamapper/api/v1/PCPIPCH/SWZ,,partial,False,0,0
+sz_wfp_hdx,WFP market prices (HDX),market,https://data.humdata.org/dataset/wfp-food-prices-for-kingdom-of-eswatini,01,excluded,True,0,0
+sz_rtfp,World Bank RTFP — monthly food price estimates,market,https://microdata.worldbank.org/index.php/catalog/4483,01,excluded,True,0,0
+sz_fewsnet,FEWS NET market prices,market,https://fews.net/data/markets-and-trade,01,excluded,True,0,0
+sz_supermarkets_online,"Supermarket chains (Pick n Pay, Shoprite/Checkers, Spar) — online prices",ecommerce,https://www.trade.gov/country-commercial-guides/eswatini-ecommerce,01 02 05 13,excluded,True,0,0
+sz_ewsc_water,Eswatini Water Services Corporation — water tariffs,tariff,https://www.pressreader.com/eswatini/times-of-eswatini/20210922/281603833608073,04,excluded,True,0,0
+sz_rents,"Rental listings (Mbabane, Manzini)",rent,https://www.pamgolding.co.za/explore/eswatini,04,excluded,True,0,0
+sz_fuel_trackers,"Third-party fuel price trackers (openvan.camp, afrotools)",tariff,https://openvan.camp/en/tools/fuel-prices/eswatini,07,excluded,True,0,0
+sz_restaurants,Restaurant menus / food delivery,ecommerce,https://www.combien-coute.net/mcdo/swaziland/mbabane/,11,excluded,True,0,0
+sz_fao_fpma,FAO GIEWS FPMA — Eswatini retail maize meal,market,https://www.fao.org/giews/countrybrief/country/SWZ/pdf/SWZ.pdf,01,excluded,True,0,0
+sz_namboard_competition,NAMBoard produce prices / Competition Commission price monitoring / NMC maize prices,market,,01,excluded,True,0,0
+sz_hospital_consultation_fee,Manzini Government Hospital — consultation fee,tariff,https://www.eswatiniobserver.com/?p=11526,06,excluded,True,0,0
+sz_sacu_excise,Alcohol and tobacco — South African excise changes quoted for Eswatini,tariff,https://eswatiniobserver.com/sa-budget-cigarette-alcohol-price-hike-2026,02,excluded,True,0,0
+sz_ipc_staple_prices,IPC acute food insecurity report — staple prices quoted (Jun 2026 - Mar 2027),market,https://www.foodsecurityportal.org/sites/default/files/2026-07/IPC_Eswatini_Acute_Food_Insecurity_Jun2026_Mar2027_Report.pdf,01,excluded,True,0,0
+sz_dstv,MultiChoice Eswatini — DStv package prices,tariff,https://www.africa-press.net/eswatini/?p=2087,09,excluded,True,0,0
+sz_lpg,LPG (cooking gas) retail prices,tariff,,04,excluded,True,0,0
+sz_private_school_fees,Waterford Kamhlaba — fee schedules 2026 and 2027,tariff,https://www.waterford.sz/wp-content/uploads/2026/08/Approved-2027-Fee-Schedule.pdf,10,excluded,True,0,0
+sz_pharmacy_prices,Retail pharmacy medicine prices,ecommerce,https://phcfm.org/index.php/phcfm/article/view/2986,06,excluded,True,0,0
